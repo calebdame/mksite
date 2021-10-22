@@ -1,17 +1,18 @@
-# Projects
+# Caleb Dame
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+### Life Goals
 
-### Commands
+* I want to always be learning new things: software, languages, domain knowledge, ways of thinking, etc.
+* I want build tools that make people smile and get them excited about things they never would have though about before.
+* I want to use simple data to find value that goes unnoticed to push for new frontiers.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## My Story
 
-### Project layout
+I grew up in Petaluma, California which is about 45 minutes north of San Francisco.  I have a dad who works in animation, a mom who went back to school 15 years ago to be a nurse, an older brother doing a PhD in Planetary Science, three younger sisters, and an amazing wife. When I was 18, I left my home to serve a two year mission for the Church of Jesus Christ of Latter-Day Saints in Northern France.  I still take every opportunity to use my French, even if its listening to Harry Potter audiobook in French.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+When I got back, I attended Brigham Young University in Utah, studying Applied and Computational Mathematics, mostly because I was good at Math in high school, I did not quite know what I wanted to do, and applying Math sounded a lot more interesting than not applying it.  I graduated after 4 years, and while I was there I learned that programming was fun, I got married, and I taught French 101 for 2.5 years.
+
+I now am the proud owner of a 6 month-old English Bulldog "Bear", and in my free time I work on the types of things you'll see on this sight: work at the intersection of Statistics, Economics, Machine Learning, Fun code, and creating random things on a computer.
+
+Thanks for visiting, Feel free to cont
+nect with me on [Linkedin](www.linkedin.com/caleb-dame) or on [Github](www.github.com/calebdame)

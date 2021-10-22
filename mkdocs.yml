@@ -109,7 +109,7 @@ extra:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/calebdame
     - icon: fontawesome/brands/linkedin
-      link: https://linkedin.com/in/calebdame/
+      link: https://linkedin.com/in/caleb-dame/
     # - icon: fontawesome/brands/instagram
     #   link: https://instagram.com/squidfunk
 
@@ -163,6 +163,7 @@ nav:
       - Record-Linking Classification: Projects/record.md
       - PyMC3: Projects/pymc3.md
       - String Clustering in Low Dimesions: Projects/clustering.md
+      - Desktop GUI for Crystalline analysis: Projects/magplot.md
 #     - License: license.md
 #     - Changelog:
 #       - changelog/index.md
