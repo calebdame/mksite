@@ -160,9 +160,9 @@ nav:
       - Battleship Solvers: Projects/battleship.md
       - Fake Tweet Generation: Projects/twitter.md
       - An LSTM Mozart: Projects/music.md
-      - Record-Linking Classification: Projects/record.md
+      - Algorithms to Improve Record-Linking Classification: Projects/record.md
       - PyMC3: Projects/pymc3.md
-      - String Clustering in Low Dimesions: Projects/clustering.md
+      - Unsupervised Learning on Strings Without Vectorization: Projects/clustering.md
       - Desktop GUI for Crystalline analysis: Projects/magplot.md
 #     - License: license.md
 #     - Changelog:
