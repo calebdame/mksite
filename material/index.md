@@ -1,4 +1,4 @@
 ---
-template: /docs/home.html
+template: /overrides/home.html
 title: Caleb Dame
 ---

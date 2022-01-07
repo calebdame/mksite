@@ -1,4 +1,4 @@
 ---
 template: overrides/home.html
-title: Caleb Dame
+title: Material for MkDocs
 ---

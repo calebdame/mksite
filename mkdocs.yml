@@ -20,11 +20,10 @@
 
 # Project information
 site_name: Caleb Dame
-site_url: https://calebdame.com/
+site_url: https://www.calebdame.com/
 site_author: Caleb Dame
 site_description: >-
-  Create a branded static site from a set of Markdown files to host the
-  documentation of your Open Source or commercial project
+  Just a Data Science nut looking for cool problems, interesting datasets, and affordable GPUs
 # Repository
 repo_name: calebdame
 repo_url: https://github.com/calebdame
@@ -34,7 +33,7 @@ edit_uri: ""
 #copyright: Copyright &copy; 2016 - 2021 Martin Donath
 theme:
   name: material
-  custom_dir: !ENV [THEME_DIR, "material"]
+  custom_dir: material
 
   # Static files
   static_templates:
@@ -49,13 +48,13 @@ theme:
   features:
     - content.code.annotate
     # - content.tabs.link
-    # - header.autohide
-    # - navigation.expand
+    - header.autohide
+    - navigation.expand
     - navigation.indexes
-    # - navigation.instant
+    - navigation.instant
     - navigation.sections
     - navigation.tabs
-    # - navigation.tabs.sticky
+    - navigation.tabs.sticky
     - navigation.top
     - navigation.tracking
     - search.highlight
@@ -64,8 +63,8 @@ theme:
     # - toc.integrate
   palette:
     - scheme: slate
-      primary: red
-      accent: red
+      primary: teal
+      accent: black
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to light mode
@@ -74,7 +73,7 @@ theme:
       accent: blue
       toggle:
         icon: material/toggle-switch
-        name: Switch to light mode
+        name: Switch to dark mode
   font:
     text: Roboto
     code: Roboto Mono
@@ -83,6 +82,8 @@ theme:
     logo: logo
 next_previous: false
 # Plugins
+# <!figure align="right"><!img src="/assets/me.jpg" height="300" width="350"/>
+# <!/figure>
 plugins:
   - search
   # - redirects:
@@ -112,6 +113,11 @@ extra:
       link: https://linkedin.com/in/caleb-dame/
     # - icon: fontawesome/brands/instagram
     #   link: https://instagram.com/squidfunk
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 # Extensions
 markdown_extensions:
@@ -155,15 +161,16 @@ markdown_extensions:
 
 # Page tree
 nav:
+  - Home: index.md
   - Projects:
       - Overview: Projects/overview.md
       - Battleship Solvers: Projects/battleship.md
       - Fake Tweet Generation: Projects/twitter.md
       - An LSTM Mozart: Projects/music.md
-      - Algorithms to Improve Record-Linking Classification: Projects/record.md
-      - PyMC3: Projects/pymc3.md
-      - Unsupervised Learning on Strings Without Vectorization: Projects/clustering.md
-      - Desktop GUI for Crystalline analysis: Projects/magplot.md
+      # - Algorithms to Improve Record-Linking Classification: Projects/record.md
+      # - PyMC3: Projects/pymc3.md
+      # - Unsupervised Learning on Strings Without Vectorization: Projects/clustering.md
+      # - Desktop GUI for Crystalline analysis: Projects/magplot.md
 #     - License: license.md
 #     - Changelog:
 #       - changelog/index.md
@@ -172,7 +179,7 @@ nav:
      - Overview: Papers/overview.md
      - Causal Models in the Case of Infinite Variance: Papers/inf_var.md
      - Porfolio Optimization Via Optimal Control: Papers/optimal_control.md
-     - Parameter Selection in the NYC Stop and Frisk Dataset: Papers/NYC.md
+     - Feature Selection for Causal Analysis in Stop and Frisk Dataset: Papers/NYC.md
      - A Survey of Time-Series Weather Prediction Models: Papers/weather.md
      - Emotion Classification in Audio: Papers/audio.md
      - The Effect of No-Fault Insurance on Auto Insurance Premiums: Papers/no_fault.md

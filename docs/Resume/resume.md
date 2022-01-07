@@ -1,17 +1,17 @@
-# Projects
+# Contact Me
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+### Resume
 
-### Commands
+* Check out my resume [here](CalebDameCV11.29.21.pdf) [*Last updated Nov. 2021*]
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+### Find my Code
 
-### Project layout
+* Follow me on [Github](https://www.github.com/calebdame) to track what I'm working on.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+### Contact Me
+
+* Shoot me a DM on [Linkedin](https:/www.linkedin.com/in/caleb-dame) or email me at calebdame@gmail.com
+
+* [Twitter](https:/twitter.com/calebdame) for some nerdy shenanigans and hot takes.
+
+* Find me on [Instagram](https:/instagram.com) ... just kidding - I haven't been on Instagram in years.
